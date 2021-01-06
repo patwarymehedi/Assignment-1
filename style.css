@@ -124,7 +124,7 @@ section{
     line-height: 24px;
     color: #696871;
     text-align: center;
-    margin: 0%;
+    margin-top: 20px;
 }
 .mail{
     font-size: 36px;
@@ -155,5 +155,58 @@ section{
 }
 .fifth-part{
     height: 100px;
+    margin: 10px;
 }
-
+.bonus-part {
+    background-color: #E5E5E5;
+    height: 340px;
+    margin-bottom: 80px;
+    
+}
+.center{
+    width: 40%;
+    margin-left: 400px;
+    margin-top: 5px;
+    background: #333;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0px 20px 50px rgba(110, 102, 109, 0.5) ;   
+}
+.center h2{
+    padding: 0;
+    margin: 0;
+    color: white;
+    letter-spacing: 2px;
+}
+.skill-box{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 20px 0;
+}
+.skill-box p{
+    color: white;
+    margin-bottom: 10px;
+    padding: 0;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.skill-box p:nth-child(2){
+    float: right;
+    position: relative;
+    top: -45px;
+}
+.skill{
+    color: #262626;
+    padding: 4px;
+    box-sizing: border-box;
+    border: 1px solid #0fffb7;
+    border-radius: 2px;
+}
+.skill-level{
+    background: #0fffb7;
+    width: 100%;
+    height: 10px;
+}
+footer p{
+    text-align: center;
+}
