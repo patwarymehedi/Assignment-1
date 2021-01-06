@@ -1,0 +1,157 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+    color: #363958;
+}
+h2{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    color: #363958;
+}
+h3{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #363958;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3E3E3E;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.navi-tab{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 40px;
+    
+}
+.navitab-r a{
+    text-decoration: none;
+    color: #3C3C3C;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.color-highlight{
+    color: rgb(247, 120, 97);
+    margin-top: 10px;
+    display: inline-block;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,tomato,rgba(228, 149, 135, 0.863));
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+.half-width img{
+    width: 100%;
+}
+.color-highlight1{
+    color: #F46060;
+}
+.content{
+    text-align: center;
+}
+.third-part{
+    background-color: #E5E5E5;
+}
+.para{
+    color: #6C6C6C;
+}
+.project{
+    width: 25%;
+    border: 1px solid white;
+    border-radius: 5px;
+    float: left;
+    margin-left: 80px;
+    padding: 10px;
+    background: white;
+    height: 400px;
+}
+.project img{
+    width: 100%;
+}
+.fourth-part{
+    margin-top: 100px;
+    height: 100px;
+}
+.n-content img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.work{
+    position: absolute;
+    left: 400px;
+    top:2120px;
+    color: white;
+}
+.chat{
+    position: absolute;
+    left: 800px;
+    top:2165px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,tomato,rgba(228, 149, 135, 0.863));
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+.stay{
+    font-size: 24px;
+    line-height: 24px;
+    color: #696871;
+    text-align: center;
+    margin: 0%;
+}
+.mail{
+    font-size: 36px;
+    line-height: 42px;
+    color: #363958;
+    text-align: center;
+    margin: 0%;
+}
+.logo1 {
+    width: 4%;
+    display: inline-block;
+    padding: 5px;
+}
+.logo2 {
+    width: 4%;
+    display: inline-block;
+    padding: 5px;
+}
+.logo3 {
+    width: 4%;
+    display: inline-block;
+    padding: 5px;
+
+}
+.Social-logo{
+   margin-left: 600px;
+   margin-top: 10px;
+}
+
+
